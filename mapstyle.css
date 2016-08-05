@@ -1,0 +1,12 @@
+html{
+	background-color: grey;
+}
+#map{
+	position: absolute;
+	width:50%;
+	height: 400px;
+	background-color: grey;
+    top: 150px;
+    left: 350px;
+    border: 3px solid #73AD21;
+}
